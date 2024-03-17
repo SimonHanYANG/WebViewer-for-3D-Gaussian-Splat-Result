@@ -752,7 +752,8 @@ async function main() {
         // params.get("url") || "lab30000.splat",
         // params.get("url") || "gz30000.splat",
         // params.get("url") || "gui30000.splat",
-        params.get("url") || "pa30000.splat",
+        // params.get("url") || "pa30000.splat",
+        params.get("url") || "pb30000.splat",
 
 
 
