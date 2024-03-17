@@ -2,7 +2,7 @@
  * @Author: SimonCK666 SimonYang223@163.com
  * @Date: 2024-03-17 14:52:00
  * @LastEditors: SimonCK666 SimonYang223@163.com
- * @LastEditTime: 2024-03-17 15:09:31
+ * @LastEditTime: 2024-03-17 15:12:31
  * @FilePath: /splat/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -24,6 +24,8 @@ python convert.py ply/3dgs.ply --output 3dgs30000.splat
 
 - Upload converted `.splat` file onto [HuggingFace](https://huggingface.co/)
 
+> Simon Han YANG's 3D GS HuggingFace Results Repo: [here](https://huggingface.co/Simonooooo/gaussian-splat/tree/main) 
+
 ## Edit `main.js` file for target scene
 
 - Edit `Line760` in `main.js` for [HuggingFace Repo](https://huggingface.co/Simonooooo/gaussian-splat/tree/main)
@@ -44,6 +46,6 @@ file:///Users/simon.yang/Desktop/splat/index.html
 
 ## Example
 
-![example](lab.png)
+![example](./lab.png)
 
-![res](parallel_a.png)
+![res](./parallel_a.png)
